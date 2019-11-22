@@ -1,0 +1,14 @@
+# Avoid uploading data to the repo.
+*.csv
+*.xlsx
+*.json
+
+# Avoid uploading videos to the repo.
+*.mp4
+
+# Avoid uploading images to the repo.
+*.jpg
+
+# Avoid uploading jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
