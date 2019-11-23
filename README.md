@@ -11,4 +11,4 @@ We are employing CNNs and RNNs to predict what team has the ball possession in a
 * Omar Pardo Gomez
 
 ## Data
-We are using the video of El Clasico (April 23rd, 2017). If you have a LionMail account, you can download the raw and processed data from [here](https://drive.google.com/open?id=11e9KkUalYyNBgKDM4cCTQOSaB1jtQRbe).
+We are using the video of El Clasico (April 23rd, 2017). If you have a LionMail account, you can download the raw and processed data from [here](https://drive.google.com/open?id=11e9KkUalYyNBgKDM4cCTQOSaB1jtQRbe). If you don't have one, you can request access as well.
