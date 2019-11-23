@@ -3,7 +3,7 @@
 Final project for the Applied Deep Learning class (Fall 2019). M.S. in Data Science program at Columbia University.
 
 ## Overview
-Use CNNs and RNNs to predict what team has the ball possession in a soccer game.
+We are using CNNs and RNNs to predict what team has the ball possession in a soccer game.
 
 ## Authors
 
