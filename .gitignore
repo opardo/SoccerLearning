@@ -2,6 +2,7 @@
 *.csv
 *.xlsx
 *.json
+*.zip
 
 # Avoid uploading videos to the repo.
 *.mp4
