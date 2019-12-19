@@ -1,9 +1,9 @@
-# SoccerLearning (WORK IN PROGRESS)
+# SoccerLearning 
 
 Final project for the Applied Deep Learning class (Fall 2019). M.S. in Data Science program at Columbia University.
 
 ## Overview
-We are employing CNNs and RNNs to predict what team has the ball possession in a soccer game.
+We are employing CNNs and RNNs to predict what team has the ball possession in a soccer game. A summary of our project can be found on this [video](https://www.youtube.com/watch?v=e42zLM_n4yA).
 
 ## Authors
 
